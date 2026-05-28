@@ -1,6 +1,6 @@
 # 📦 Sistema de Gestão de Estoque em Python (v1.0)
 
-Este projeto simula um sistema básico de gerenciamento e controle de estoque baseado em console, desenvolvido como parte da **Experiência Prática 2** da disciplina de Programação de Computadores para a empresa fictícia *DataCode Solutions*. 
+Este projeto simula um sistema básico de gerenciamento e controle de estoque baseado em console, desenvolvido como parte da **Experiência Prática 2** da Universidade Positivo, para a disciplina de Programação de Computadores para a empresa fictícia *DataCode Solutions*. 
 
 O objetivo principal da aplicação é manipular dados estruturados em memória, oferecendo um menu interativo contínuo para visualização, entrada e saída de produtos, além de tratar com segurança regras de negócio críticas.
 
