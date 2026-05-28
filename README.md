@@ -30,7 +30,8 @@ O objetivo principal da aplicação é manipular dados estruturados em memória,
 Aqui está o funcionamento das principais rotinas rodando diretamente no terminal do VS Code:
 
 ### 🔹 Menu Principal e Listagem (Opção 1)
-*(Arraste aqui o print do seu menu e do estoque aparecendo)*
+<img width="1604" height="1031" alt="print1" src="https://github.com/user-attachments/assets/9de7c033-a422-4332-92b5-7a078373219a" />
+
 
 ### 🔹 Entrada e Reposição de Itens (Opção 2)
 *(Arraste aqui o print adicionando unidades a um produto)*
