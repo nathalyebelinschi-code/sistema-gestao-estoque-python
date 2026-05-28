@@ -34,7 +34,9 @@ Aqui está o funcionamento das principais rotinas rodando diretamente no termina
 
 
 ### 🔹 Entrada e Reposição de Itens (Opção 2)
-*(Arraste aqui o print adicionando unidades a um produto)*
+<img width="1736" height="1023" alt="print2" src="https://github.com/user-attachments/assets/64b2406e-4c2b-4523-b8cc-4a4e3757500d" />
+
 
 ### 🔹 Venda Segura com Validação de Saldo (Opção 3)
-*(Arraste aqui o print simulando uma venda com sucesso ou estoque insuficiente)*
+<img width="1919" height="1010" alt="print3" src="https://github.com/user-attachments/assets/01434389-0656-4738-a83a-b33bda1e7811" />
+
